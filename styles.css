@@ -1,9 +1,9 @@
-head
-{
-    background-color: rgb(60,200,200);
-}
-
 body
 {
-    background-color: rgb(60,80,80);
+    background-color: #aaffee;
+}
+
+footer
+{
+    background-color: #aaddcc;
 }
