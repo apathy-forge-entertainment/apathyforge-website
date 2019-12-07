@@ -2,9 +2,18 @@
 <html lang="en">
     <head>
         <title>Contact Us</title>
-        <?php include("head_information.php"); ?>
+	    <?php
+		    include("insert_functions.php");
+		    getMetaData();
+	    ?>
     </head>
     <body>
-        <h1>This is the Contact Us Page!</h1>
+        <header>
+    	    <?php getNavBar()?>
+        </header>
+        <article>
+            <h1>This is the Contact Us Page!</h1>
+        </article>
+        <?php getFooter(); ?>
     </body>
 </html>
