@@ -15,5 +15,7 @@
         echo "<p>After the for loop the new value of x is: " . $x . "</p>";
     ?>
 
+    <a href='page2.php'>Page 2</a>
+
     </body>
 </html>
