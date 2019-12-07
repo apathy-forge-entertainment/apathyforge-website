@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <title>Apathyforge Entertainment</title>
         <?php include("head_information.php"); ?>
