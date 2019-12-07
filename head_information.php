@@ -4,12 +4,12 @@
 
     //leave title up to page itself
 echo '
-	<div class="topnav">
-    	<a href="default.php">Home</a>
-        <a href="projects.php">Projects</a>
-        <a href="aboutus.php">About Us</a>
-        <a href="contactus.php">Contact Us</a>
-	</div>
+	<ul>
+    	<li><a href="default.php">Home</a></li>
+        <li><a href="projects.php">Projects</a></li>
+        <li><a href="aboutus.php">About Us</a></li>
+        <li><a href="contactus.php">Contact Us</a></li>
+	</ul>>
 ';
 
 echo'
