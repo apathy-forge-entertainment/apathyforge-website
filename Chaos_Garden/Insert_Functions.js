@@ -6,3 +6,8 @@ function getNavBar()
                 "<li><a href='learn.html'>Learn</a></li>" +
             "</ul>"
 }
+
+function getFooter()
+{
+    return "<p>This website created by Team Chaos for CS499 at Ashland University, Spring 2020</p>"
+}
