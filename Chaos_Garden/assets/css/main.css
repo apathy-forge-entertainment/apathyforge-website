@@ -672,8 +672,10 @@
 		}
 
 		.box.person {
-			border: solid 1px rgba(255, 255, 255, 0.25);
-			padding: 3em 1.5em;
+			border: solid 5px rgba(255, 255, 255, 0.25);
+			padding: 3em 3.5em;
+			margin-right: 2em;
+			margin-left: 2em;
 		}
 
 			.box.person h3 {
@@ -1540,3 +1542,39 @@
 		}
 
 	}
+
+#slimmer {
+	max-width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#about
+{
+	background-color: #d1dff3;
+}
+
+#instructions
+{
+	float: right;
+	width: 400px;
+	border-style: solid;
+	border-color: #5385c1;
+	border-width: 5px;
+}
+
+#playbox
+{
+	float:left;
+	width: 600px;
+	height: 200px;
+	border-style: solid;
+	border-color: #5385c1;
+	border-width: 5px;
+	text-align: center;
+}
+
+.last
+{
+	display: block;
+	clear: both;
+}
