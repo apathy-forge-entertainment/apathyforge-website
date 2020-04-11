@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<!--
+	Theory by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>CG - Interact</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/skel.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+		<!-- Backend Scripts -->
+		<script src="assets/backend/main.js"></script>
+		<script src="assets/backend/point.js"></script>
+		<script src="assets/backend/states.js"></script>
+		<script src="assets/backend/StringGenerator.js"></script>
+	</head>
+	<body id="slimmer" class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="index.html" class="logo">Chaos Garden</a>
+					<nav id="nav">
+						<a href="index.html">Home</a>
+						<a href="interact.html">Interact</a>
+						<a href="learn.html">Learn</a>
+					</nav>
+					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header>
+
+		<!-- Three -->
+			<section id="three" class="wrapper">
+				<div class="inner">
+					<header class="align-center">
+						<h2>Interact With Chaos Automata</h2>
+						<h3>Feel free to input any text into the seed box, and a size in the scale box. A good size to start with is 1.006.</h3>
+					</header>
+					<div id="input">
+						<form>
+							<label for="fSeed">Seed:</label>
+							<input type="text" id="fSeed" name="fSeed" value="example" style="width: 300px;"/><br>
+							<label for="fScale">Scale:</label>
+							<input type="number" id="fScale" name="fScale" value="1.006"/><br><br>
+							<input type="button" value="Generate Fractal" onclick="submitScript()">
+						</form>
+					</div>
+					<div>
+						<canvas id="canvas" width="1000" height="1000" style="background-color:black;">
+						<script>
+							//run scripts needed to generate points
+
+
+							function submitScript(){
+								var seed = document.getElementById("fSeed");
+								var scale = document.getElementById("fScale");
+								var scaleInt = parseFloat(scale.value);
+								runScript(scaleInt, seed.value);
+								useCanvas();
+							}
+						</script>
+					</div>
+				</div>
+			</section>
+
+			<!-- Footer -->
+			<footer class="last">
+			<p>This website developed as part of CS 499: Team Chaos</p>
+			</footer>
+
+
+	</body>
+</html>
