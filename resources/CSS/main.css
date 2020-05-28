@@ -1,16 +1,26 @@
 @charset "UTF-8";
 
+#header
+{
+    background-color: rebeccapurple;
+}
+
+#content
+{
+    background-color: blue;
+}
+
+#footer
+{
+    background-color: red;
+}
+
 /* Nav Bar */
 #navBar
 {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-
-#footer
-{
-
 }
 
 .memberBox
