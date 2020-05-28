@@ -1,18 +1,36 @@
 @charset "UTF-8";
 
-#header
+/*
+Color Palette
+baby powder: #F7F7F2
+Pale Spring Bud: #E4E6C3
+Artichoke: #899878
+Charleston Green: #222725
+Smokey Black: #121113
+
+*/
+body
 {
-    background-color: rebeccapurple;
+    width: 85%;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #899878;
 }
 
+#header
+{
+    background-color: #E4E6C3;
+}
+ 
 #content
 {
-    background-color: blue;
+    background-color: #E4E6C3;
 }
 
 #footer
 {
-    background-color: red;
+    background-color: #E4E6C3;
 }
 
 /* Nav Bar */
