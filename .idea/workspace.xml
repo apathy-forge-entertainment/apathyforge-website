@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="071f1aca-bb31-46fc-99dc-bb8a94a3b91a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_installation_7.3.11" />
+  <component name="ProjectId" id="1URQHLdCk5QAn0DVQOVRUC0gvlI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Team-Chaos-Repo/website" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brand\Documents\GitHub\apathyforge-website\Chaos_Garden" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.Chaos Garden">
+    <configuration name="Chaos Garden" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" url="http://localhost:63342/apathyforge-website/Chaos_Garden/index.html" />
+      </method>
+    </configuration>
+    <configuration name="Test Pages" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" url="http://localhost:63342/apathyforge-website/default.php" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.Test Pages" />
+      <item itemvalue="PHP Built-in Web Server.Chaos Garden" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\brand\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="071f1aca-bb31-46fc-99dc-bb8a94a3b91a" name="Default Changelist" comment="" />
+      <created>1575316839655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575316839655</updated>
+      <workItem from="1575316846499" duration="567000" />
+      <workItem from="1575318105499" duration="446000" />
+      <workItem from="1575659902663" duration="775000" />
+      <workItem from="1575660744099" duration="296000" />
+      <workItem from="1576340393775" duration="465000" />
+      <workItem from="1579704832169" duration="85000" />
+      <workItem from="1580172885821" duration="59000" />
+      <workItem from="1580173792573" duration="183000" />
+      <workItem from="1581008081655" duration="2260000" />
+      <workItem from="1581093396108" duration="24000" />
+      <workItem from="1581105350684" duration="701000" />
+      <workItem from="1581535021662" duration="721000" />
+      <workItem from="1581535872343" duration="26000" />
+      <workItem from="1583076145027" duration="47000" />
+    </task>
+    <task id="LOCAL-00001" summary="Chaos Garden: created framework">
+      <created>1581009393776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581009393776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chaos Garden: created framework">
+      <created>1581009496498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581009496498</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chaos Garden: script to insert nav bar on index.html">
+      <created>1581009832214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581009832214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Chaos Garden: added nav bars to other pages">
+      <created>1581009947694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581009947694</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Chaos Garden: added nav bars to other pages">
+      <created>1581010294794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581010294794</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Chaos Garden: added footer">
+      <created>1581105672891</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581105672891</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Chaos Garden: added footer">
+      <created>1581105885091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581105885091</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chaos Garden: added footer">
+      <created>1581106013818</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581106013818</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chaos Garden: created framework" />
+    <MESSAGE value="Chaos Garden: script to insert nav bar on index.html" />
+    <MESSAGE value="Chaos Garden: added nav bars to other pages" />
+    <MESSAGE value="Chaos Garden: added footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chaos Garden: added footer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="14" key="#CLI_Interpreters" timestamp="1575318363467">
+      <screen x="0" y="0" width="1206" height="720" />
+    </state>
+    <state x="368" y="14" key="#CLI_Interpreters/0.0.1206.720@0.0.1206.720" timestamp="1575318363467" />
+    <state x="624" y="0" key="#PHP" timestamp="1575318369739">
+      <screen x="0" y="0" width="1206" height="720" />
+    </state>
+    <state x="624" y="0" key="#PHP/0.0.1206.720@0.0.1206.720" timestamp="1575318369739" />
+    <state x="324" y="48" key="#Test_Pages" timestamp="1575318374395">
+      <screen x="0" y="0" width="1206" height="720" />
+    </state>
+    <state x="324" y="48" key="#Test_Pages/0.0.1206.720@0.0.1206.720" timestamp="1575318374395" />
+    <state x="59" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581535161912">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="59" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1206.720@0.0.1206.720" timestamp="1576340619070" />
+    <state x="59" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1210.720@0.0.1210.720" timestamp="1581535161912" />
+    <state x="434" y="75" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1581010208538">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="434" y="75" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1210.720@0.0.1210.720" timestamp="1581010208538" />
+    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1581106012962">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1210.720@0.0.1210.720" timestamp="1581106012962" />
+    <state x="339" y="122" key="EnvironmentVariablesDialog" timestamp="1576340597710">
+      <screen x="0" y="0" width="1206" height="720" />
+    </state>
+    <state x="339" y="122" key="EnvironmentVariablesDialog/0.0.1206.720@0.0.1206.720" timestamp="1576340597710" />
+    <state x="570" y="114" key="FileChooserDialogImpl" timestamp="1581535895724">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="568" y="114" key="FileChooserDialogImpl/0.0.1206.720@0.0.1206.720" timestamp="1576340615588" />
+    <state x="570" y="114" key="FileChooserDialogImpl/0.0.1210.720@0.0.1210.720" timestamp="1581535895724" />
+    <state width="1167" height="169" key="GridCell.Tab.0.bottom" timestamp="1581535748570">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1163" height="176" key="GridCell.Tab.0.bottom/0.0.1206.720@0.0.1206.720" timestamp="1576340862872" />
+    <state width="1167" height="169" key="GridCell.Tab.0.bottom/0.0.1210.720@0.0.1210.720" timestamp="1581535748570" />
+    <state width="1167" height="169" key="GridCell.Tab.0.center" timestamp="1581535748570">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1163" height="176" key="GridCell.Tab.0.center/0.0.1206.720@0.0.1206.720" timestamp="1576340862872" />
+    <state width="1167" height="169" key="GridCell.Tab.0.center/0.0.1210.720@0.0.1210.720" timestamp="1581535748570" />
+    <state width="1167" height="169" key="GridCell.Tab.0.left" timestamp="1581535748570">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1163" height="176" key="GridCell.Tab.0.left/0.0.1206.720@0.0.1206.720" timestamp="1576340862872" />
+    <state width="1167" height="169" key="GridCell.Tab.0.left/0.0.1210.720@0.0.1210.720" timestamp="1581535748570" />
+    <state width="1167" height="169" key="GridCell.Tab.0.right" timestamp="1581535748570">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state width="1163" height="176" key="GridCell.Tab.0.right/0.0.1206.720@0.0.1206.720" timestamp="1576340862872" />
+    <state width="1167" height="169" key="GridCell.Tab.0.right/0.0.1210.720@0.0.1210.720" timestamp="1581535748570" />
+    <state x="439" y="283" key="NewPhpFileDialog" timestamp="1575660050384">
+      <screen x="0" y="0" width="1206" height="720" />
+    </state>
+    <state x="439" y="283" key="NewPhpFileDialog/0.0.1206.720@0.0.1206.720" timestamp="1575660050384" />
+    <state x="89" y="0" key="SettingsEditor" timestamp="1581010244507">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="89" y="0" key="SettingsEditor/0.0.1210.720@0.0.1210.720" timestamp="1581010244507" />
+    <state x="198" y="93" key="Vcs.Push.Dialog.v2" timestamp="1581106020880">
+      <screen x="0" y="0" width="1210" height="720" />
+    </state>
+    <state x="198" y="93" key="Vcs.Push.Dialog.v2/0.0.1210.720@0.0.1210.720" timestamp="1581106020880" />
+    <state x="306" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1583076145246">
+      <screen x="0" y="0" width="1215" height="720" />
+    </state>
+    <state x="304" y="183" key="com.intellij.ide.util.TipDialog/0.0.1206.720@0.0.1206.720" timestamp="1576340477441" />
+    <state x="305" y="183" key="com.intellij.ide.util.TipDialog/0.0.1210.720@0.0.1210.720" timestamp="1581535874662" />
+    <state x="306" y="183" key="com.intellij.ide.util.TipDialog/0.0.1215.720@0.0.1215.720" timestamp="1583076145246" />
+    <state x="413" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576340648411">
+      <screen x="0" y="0" width="1206" height="720" />
+    </state>
+    <state x="413" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1206.720@0.0.1206.720" timestamp="1576340648411" />
+    <state x="266" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1575660109054">
+      <screen x="0" y="0" width="1206" height="720" />
+    </state>
+    <state x="266" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1206.720@0.0.1206.720" timestamp="1575660109054" />
+  </component>
+</project>
