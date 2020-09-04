@@ -14,5 +14,5 @@ function getHeader()
 function getFooter()
 {
     var footer = document.getElementById("footer");
-    footer.innerHTML = '<p>Apathy Forge Entertainment | Site Updated: May 2020</p>';
+    footer.innerHTML = "<p>Apathy Forge Entertainment | site updated: September 2020</p>";
 }
